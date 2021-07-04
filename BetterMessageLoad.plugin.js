@@ -1,8 +1,8 @@
 /**
  * @name BetterMessageLoad
  * @version 0.1.1
- * @source 
- * @updateUrl 
+ * @source https://raw.githubusercontent.com/Xulaar/BetterMessageLoad/main/BetterMessageLoad.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Xulaar/BetterMessageLoad/main/BetterMessageLoad.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
